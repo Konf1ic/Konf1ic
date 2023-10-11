@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 I'm a Coder (still learning) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
-- :telescope: I’m studying at ThanhDo university.
+- :telescope: Studying at ThanhDo university.
 
 - :seedling: Learning Java and JavaScript.
 
