@@ -4,10 +4,10 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a Coder (still learning) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
+A 1st year Game Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - :telescope: Studying at ThanhDo university.
 
-- :seedling: Learning Java and JavaScript.
+- :seedling: Learning C# and Unity.
 
 - :zap: In my free time i read books, play games and draw.
 
