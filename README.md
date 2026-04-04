@@ -4,12 +4,9 @@
 </div>
 
 ### :man_technologist: About Me :
-A 1st year Game Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
-- :telescope: Studying at ThanhDo university.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 
 - :seedling: Learning C# and Unity.
-
-- :zap: In my free time i read books, play games and draw.
 
 
 ### :fire: My Stats :
